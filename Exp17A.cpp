@@ -22,3 +22,8 @@ int main()
     cout << (*head).val << " " << (*(*head).next).val << endl;
     return 0;
 }
+
+/*
+OUTPUT:
+10 20 30
+*/
